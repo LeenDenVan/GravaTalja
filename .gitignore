@@ -1,0 +1,11 @@
+/.vscode
+/.xmake
+/run
+/unix_includes
+/vendor/arm64-v8a
+/vendor/armeabi-v7a
+/vendor/x86
+/vendor/x86-64
+/vendor/Saba_Win.lib
+
+/build
